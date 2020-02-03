@@ -1,4 +1,4 @@
-app();
-function app(){
-    console.log('welcome to app');
+app('welcome to my app!');
+function app(message){
+    console.log(message);
 }
