@@ -1,0 +1,19 @@
+{
+  "name": "refresh_practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirajmsm/refresh_practices.git"
+  },
+  "author": "sirajmsm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirajmsm/refresh_practices/issues"
+  },
+  "homepage": "https://github.com/sirajmsm/refresh_practices#readme"
+}
