@@ -1,1 +1,4 @@
-console.log('hello world!');
+app();
+function app(){
+    console.log('welcome to app');
+}
